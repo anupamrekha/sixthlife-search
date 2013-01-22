@@ -18,7 +18,7 @@ Author URI: http://sixthlife.net
 
 */ 
 
-/*     
+ 
 
 $attacment_idarray = array();
 
@@ -282,7 +282,7 @@ else{
 
 }
 
-*/
+
 
 function rename_attacment($post_ID,$newfilename){
 
