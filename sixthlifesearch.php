@@ -1077,7 +1077,7 @@ function thse_addthemes_submenu_page() {
 
   <label for="">Inner Theme Preview</label> </th><td>
 
-        
+         
 
 		<input type="text" class="regular-text" name="innertheme_preview" id="innertheme_preview"  onblur="javascript:checkThemeinnerpreview(this);"  value="<?php if(isset($_POST['innertheme_preview'])){  echo $_POST['innertheme_preview'];} ?>" />
 
